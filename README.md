@@ -1,8 +1,8 @@
 ### Hi there 👋, My name is Kerollos Ayman
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### Front-End Dev
+![Front-End Dev](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+As a passionate and detail-oriented front-end developer with over [X] years of experience, I specialize in creating seamless, responsive, and visually stunning web applications. With a solid foundation in HTML, CSS, JavaScript, and modern front-end frameworks like React and Vue, I thrive on turning complex design concepts into user-friendly interfaces. I am driven by my commitment to continuous learning and staying up to date with industry trends to deliver optimal web experiences. Whether collaborating in a team or working independently, my focus is on clean, maintainable code and delivering exceptional digital products that enhance user engagement and performance.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
